@@ -10,6 +10,12 @@ Four workspaces for the area of Kiel were visualized and open to the public:
 * [Kiel - Weather](https://dashboards.2019.smartmaas.services/smartPredator/kiel-weather)
 * [Kiel - Fuel](https://dashboards.2019.smartmaas.services/smartPredator/kiel-fuel?mode=embedded&theme=wirecloud.defaulttheme)
 
+Screenshots of the wiring and the settings of the individual operators can be found in the **img** directory
+* [kiel-air-quality-dashboard](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-air-quality-dashboard)
+* [kiel-parking-and-traffic-dashboard](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-parking-and-traffic-dashboard)
+* [kiel-weather-dashboard](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-weather-dashboard)
+* [kiel-fuel-dashboard](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-fuel-dashboard)
+
 The widgets directory contains the operators and widgets that were used to implement and visualize the individual dashboards.
 
 > Please note that some of the operators were **specially** adapted for the implementation and visualization of the open source data for Kiel. 
