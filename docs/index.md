@@ -5,6 +5,7 @@ Repository to store and document the visualization in the FIWARE Wirecloud compo
 
 Four workspaces for the area of Kiel were visualized and open to the public:
 
+* [Starting page](https://dashboards.2019.smartmaas.services/wirecloud/home)
 * [Kiel - Air Quality](https://dashboards.2019.smartmaas.services/smartPredator/kiel-air-quality)
 * [Kiel - Traffic & Parking](https://dashboards.2019.smartmaas.services/smartPredator/kiel-traffic-parking)
 * [Kiel - Weather](https://dashboards.2019.smartmaas.services/smartPredator/kiel-weather)
