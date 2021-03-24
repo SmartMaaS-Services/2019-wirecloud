@@ -21,19 +21,19 @@ Four workspaces for the area of Kiel were visualized and open to the public:
 ##### Dashboard
 
 <p align="center">
-    <img src="docs/img/starting-page/wirecloud-home.png" alt="Wirecloud Starting Page" width="650" height="480">
+    <img src="docs/img/starting-page/wirecloud-home.png" alt="Wirecloud Starting Page" width="80%">
 </p>
 
 > To make changes on the starting page of wirecloud you have to switch the user:
 
 <p align="center">
-    <img src="docs/img/starting-page/wirecloud-home-switch-user.png" alt="Switch User" width="650" height="480">
+    <img src="docs/img/starting-page/wirecloud-home-switch-user.png" alt="Switch User" width="80%">
 </p>
 
 ##### Wiring
 
 <p align="center">
-    <img src="docs/img/starting-page/wirecloud-home-wiring.png" alt="Wiring" width="650" height="480">
+    <img src="docs/img/starting-page/wirecloud-home-wiring.png" alt="Wiring" width="80%">
 </p>
 
 
@@ -42,17 +42,17 @@ Four workspaces for the area of Kiel were visualized and open to the public:
 ##### Dashboard
 
 <p align="center">
-    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality_part1.png" alt="Kiel Air Quality Part 1" width="650" height="480">
+    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality_part1.png" alt="Kiel Air Quality Part 1" width="80%">
 </p>
 
 <p align="center">
-    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality_part2.png" alt="Kiel Air Quality Part 2" width="650" height="480">
+    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality_part2.png" alt="Kiel Air Quality Part 2" width="80%">
 </p>
 
 ##### Wiring
 
 <p align="center">
-    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality-wiring.png" alt="Wiring Kiel Air Quality" width="650" height="480">
+    <img src="docs/img/kiel-air-quality-dashboard/kiel-air-quality-wiring.png" alt="Wiring Kiel Air Quality" width="80%">
 </p>
 
 Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-air-quality-dashboard/settings)
@@ -63,13 +63,13 @@ Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-
 ##### Dashboard
 
 <p align="center">
-    <img src="docs/img/kiel-parking-and-traffic-dashboard/kiel-traffic-parking.png" alt="Kiel Traffic and Parking" width="650" height="480">
+    <img src="docs/img/kiel-parking-and-traffic-dashboard/kiel-traffic-parking.png" alt="Kiel Traffic and Parking" width="80%">
 </p>
 
 ##### Wiring
 
 <p align="center">
-    <img src="docs/img/kiel-parking-and-traffic-dashboard/kiel-traffic-parking-wiring.png" alt="Wiring Kiel Traffic and Parking" width="650" height="480">
+    <img src="docs/img/kiel-parking-and-traffic-dashboard/kiel-traffic-parking-wiring.png" alt="Wiring Kiel Traffic and Parking" width="80%">
 </p>
 
 Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-parking-and-traffic-dashboard/settings)
@@ -80,17 +80,17 @@ Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-
 ##### Dashboard
 
 <p align="center">
-    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part1.png" alt="Kiel Weather Part 1" width="650" height="480">
+    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part1.png" alt="Kiel Weather Part 1" width="80%">
 </p>
 
 <p align="center">
-    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part2.png" alt="Kiel Weather Part 2" width="650" height="480">
+    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part2.png" alt="Kiel Weather Part 2" width="80%">
 </p>
 
 ##### Wiring
 
 <p align="center">
-    <img src="docs/img/kiel-weather-dashboard/kiel-weather-wiring.png" alt="Wiring Kiel Weather" width="650" height="480">
+    <img src="docs/img/kiel-weather-dashboard/kiel-weather-wiring.png" alt="Wiring Kiel Weather" width="80%">
 </p>
 
 Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-Services/2019-wirecloud/tree/master/docs/img/kiel-weather-dashboard/settings)
@@ -101,17 +101,17 @@ Settings screenshots can be found here: [Settings](https://github.com/SmartMaaS-
 ##### Dashboard
 
 <p align="center">
-    <img src="docs/img/kiel-fuel-dashboard/kiel-fuel.png" alt="Kiel Fuel" width="650" height="480">
+    <img src="docs/img/kiel-fuel-dashboard/kiel-fuel.png" alt="Kiel Fuel" width="80%">
 </p>
 
 <p align="center">
-    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part2.png" alt="Kiel Weather Part 2" width="650" height="480">
+    <img src="docs/img/kiel-weather-dashboard/kiel-weather_part2.png" alt="Kiel Weather Part 2" width="80%">
 </p>
 
 ##### Wiring
 
 <p align="center">
-    <img src="docs/img/kiel-fuel-dashboard/kiel-fuel-wiring.png" alt="Wiring Kiel Fuel" width="650" height="480">
+    <img src="docs/img/kiel-fuel-dashboard/kiel-fuel-wiring.png" alt="Wiring Kiel Fuel" width="80%">
 </p>
 
 
@@ -179,8 +179,10 @@ The widgets directory contains the operators and widgets that were used to imple
 
 ##### Accumulator
 * [Generic Accumulator Operator](https://github.com/SmartMaaS-Services/generic-accumulator-operator)
-* [GTFS Relationships Analyzer Operator](https://github.com/SmartMaaS-Services/gtfs-relationship-analyzer-operator)
 
+##### GTFS Relationships Analyzer Operator (explizit for [vbb-rest-2-ngsi](https://github.com/SmartMaaS-Services/vbb-rest-2-ngsi))
+* [GTFS Relationships Analyzer Operator](https://github.com/SmartMaaS-Services/gtfs-relationship-analyzer-operator)
+ 
 
 
 
