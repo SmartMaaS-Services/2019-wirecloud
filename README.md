@@ -1,3 +1,5 @@
+[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
+
 # Wirecloud - SmartMaaS 2019 platform
 
 Repository to store and document the visualization in the FIWARE Wirecloud component for the SmaartMaaS 2019 platform [https://dashboards.2019.smartmaas.services](https://dashboards.2019.smartmaas.services).
